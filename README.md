@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yusuf
+- 👋 Hi, I’m Yusuf
 - 🌱 I’m currently learning c, c++, java
 - 📫 How to reach me yusufyesin02@gmail.com
 
